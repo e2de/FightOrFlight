@@ -24,6 +24,6 @@ protected:
 		struct FBlackboardKeySelector NextWaypointIndex;
 
 	UPROPERTY(EditAnywhere, Category = "Blackboard")
-		struct FBlackboardKeySelector WayPoint;
+		struct FBlackboardKeySelector BlackboardWayPoint;
 
 };
